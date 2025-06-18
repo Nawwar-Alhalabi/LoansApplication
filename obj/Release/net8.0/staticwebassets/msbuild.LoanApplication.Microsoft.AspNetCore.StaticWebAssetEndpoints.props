@@ -760,13 +760,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\LoanApplication.oqvk6gqezq.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sAMNfcnXDRRWqikZcpHWRwqYrXKIxX0HGOUDE4lIf/o="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1133"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sAMNfcnXDRRWqikZcpHWRwqYrXKIxX0HGOUDE4lIf/o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 14:44:37 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1133"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sAMNfcnXDRRWqikZcpHWRwqYrXKIxX0HGOUDE4lIf/o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 16:33:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/LoanApplication/LoanApplication.oqvk6gqezq.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\LoanApplication.oqvk6gqezq.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oqvk6gqezq"},{"Name":"integrity","Value":"sha256-sAMNfcnXDRRWqikZcpHWRwqYrXKIxX0HGOUDE4lIf/o="},{"Name":"label","Value":"_content/LoanApplication/LoanApplication.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1133"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sAMNfcnXDRRWqikZcpHWRwqYrXKIxX0HGOUDE4lIf/o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 14:44:37 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1133"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sAMNfcnXDRRWqikZcpHWRwqYrXKIxX0HGOUDE4lIf/o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 16:33:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

@@ -1,3 +1,4 @@
+C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Release\net8.0\PubTmp\Out\app.db
 C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Release\net8.0\PubTmp\Out\LoanApplication.exe
 C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
 C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Release\net8.0\PubTmp\Out\appsettings.json
