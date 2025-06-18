@@ -171,3 +171,4 @@ C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Debug\net8.0\LoanApp
 C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Debug\net8.0\ref\LoanApplication.dll
 C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Debug\net8.0\LoanApplication.sourcelink.json
 C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\bin\Debug\net8.0\app.db

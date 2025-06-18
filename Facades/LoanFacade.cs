@@ -13,10 +13,11 @@ public class LoanFacade
     public async Task<Loan> CreateLoanAsync(string customerName, int amount, int months)
     {
         var schedule = _calc.CalculateSchedule(amount, months).ToList();
-
+        var customer = _repo.CheckIfCustomerExist(customerName);
+      
         var loan = new Loan
         {
-            Customer = new Customer { Name = customerName },
+            Customer = customer,
             Amount = amount,
             PeriodInMonths = months,
             Payments = schedule
