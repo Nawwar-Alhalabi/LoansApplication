@@ -171,3 +171,4 @@ C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Release\net8.0\refin
 C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Release\net8.0\LoanApplication.pdb
 C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Release\net8.0\LoanApplication.genruntimeconfig.cache
 C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\obj\Release\net8.0\ref\LoanApplication.dll
+C:\Users\Nawoar\Desktop\LoanApplication\LoanApplication\bin\Release\net8.0\.railway\Dockerfile
