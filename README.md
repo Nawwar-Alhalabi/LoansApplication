@@ -15,7 +15,7 @@ The system allows employees to:
 💾 Store all data using SQLite (for development) and optionally switch to SQL Server.
 
 🛠️ Technologies Used
-ASP.NET Core MVC 8
+ASP.NET Core MVC
 
 Entity Framework Core
 
